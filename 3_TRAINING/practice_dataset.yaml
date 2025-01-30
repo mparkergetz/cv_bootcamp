@@ -1,0 +1,8 @@
+path: cv_bootcamp/2_DATASET/practice_dataset  # dataset root dir
+train: train  # dir @ path location containing training imgs and annotation txts 
+val: val  # dir @ path location containing validation imgs and annotation txts
+test:  # if test set location exists, specify here (optional)
+nc: 1  # number of classes
+
+names: # specify each class name below
+  0: insect

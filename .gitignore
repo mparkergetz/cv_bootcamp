@@ -1,1 +1,4 @@
 2_DATASET/*
+*.pt
+practice_runs/
+wandb/

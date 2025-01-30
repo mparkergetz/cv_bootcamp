@@ -157,4 +157,3 @@ dependencies:
       - ultralytics-thop==2.0.0
       - wandb==0.15.10
       - wcwidth==0.2.6
-prefix: /home/mpgetz/miniconda3/envs/yolonew
